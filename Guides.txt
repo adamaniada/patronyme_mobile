@@ -1,0 +1,2 @@
+npx create-expo-app Patronyme --template expo-template-blank
+
